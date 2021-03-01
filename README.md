@@ -29,4 +29,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Contacts
 
- - Linkedin.(https://www.linkedin.com/in/igor-pinheiro-a197b21a2/)
+ - Linkedin(https://www.linkedin.com/in/igor-pinheiro-a197b21a2/)
