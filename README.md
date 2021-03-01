@@ -2,7 +2,7 @@
 
 A basic online chat where you can chat with users registered in the Firebase database. It was made for the study of Flutter and Firebase.
 
-![Demonstração do app](assets/chat2.gif)
+<img src="assets/chat2.gif" width="440" >
 
 ## Getting Started
 
